@@ -1,0 +1,1 @@
+URL : http://localhost/angular_flickr
